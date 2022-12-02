@@ -1,0 +1,22 @@
+.red {
+    background-color: lightcoral;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue-item {
+    font-size: 48px;
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#big-red {
+    font-size: 36px;
+}
+
+#green-bg {
+    font-size: 36px;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
